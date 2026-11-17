@@ -1,0 +1,8 @@
+EADG 0.0.4
+Development Maukka
+
+- Performer names open linked Wikipedia introductions with a browser link.
+- Original-resolution artwork opens full-screen with pinch, pan and zoom.
+- GitHub update checks and APK download/install support.
+
+Signed APKs are distributed through GitHub Releases. Source code and signing keys are private.
